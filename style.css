@@ -102,7 +102,7 @@ body{
     width: 325px;
     height: 250px;
     border-radius: 0 0 10px 0;
-    background-color: #30CFCC;
+    background-color: #2dc2bf;
 }
 
 .text-section h1{
@@ -114,7 +114,7 @@ body{
 
 .text-section p{
     font-size: 14px;
-    padding: 12px 0 0 0;
+    padding: 2px 0 0 0;
     margin-left: 30px;
     width: 200px;
     line-height: 2.5ch;
